@@ -10,3 +10,6 @@
 ## Author: dnb22@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
 
+# Import modules
+import sys, os, arcpy
+
